@@ -47,7 +47,7 @@ Assistant: "Playing Bohemian Rhapsody on YouTube"
 1. **Clone the repository**
 ```bash
 git clone https://github.com/shofiahmed69/Voice_Assistant_AI_by_python.git
-cd ai-voice-assistant
+cd ai_assistant
 ```
 
 2. **Install required packages**
