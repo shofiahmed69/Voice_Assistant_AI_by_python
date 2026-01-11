@@ -46,7 +46,7 @@ Assistant: "Playing Bohemian Rhapsody on YouTube"
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-voice-assistant.git
+git clone https://github.com/shofiahmed69/Voice_Assistant_AI_by_python.git
 cd ai-voice-assistant
 ```
 
@@ -69,7 +69,7 @@ WEATHER_API_KEY=your_openweather_api_key_here
 
 4. **Run the assistant**
 ```bash
-python voice_assistant.py
+python ai_assistant.py
 ```
 
 ## 📦 Requirements
